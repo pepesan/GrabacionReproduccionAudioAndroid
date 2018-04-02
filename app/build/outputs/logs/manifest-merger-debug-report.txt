@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/2f925656b628ed7074d457b31bc5edaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f20bf932d96551072deaefeb047ef585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/e413d450205fe99e4db8b82f70e6294e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/027256dc4131f797426ad547f6b7520b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/6c2a13107fc15d5907810275f83b9b40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a176f0c7470bbfb1a837401cce2495d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/af1f3f190667865df21b862ee6cc5c73/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d12ff4281823c66215ead865ca43ecb0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83074c8c181ca0cb030bb012a186fa4e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1169a1c06ecfabac9d0fcaa70452e99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8dd4ca5ca1422096612978759d3501f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/2f925656b628ed7074d457b31bc5edaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/2f925656b628ed7074d457b31bc5edaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f20bf932d96551072deaefeb047ef585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f20bf932d96551072deaefeb047ef585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/e413d450205fe99e4db8b82f70e6294e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/e413d450205fe99e4db8b82f70e6294e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/027256dc4131f797426ad547f6b7520b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/027256dc4131f797426ad547f6b7520b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/6c2a13107fc15d5907810275f83b9b40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/6c2a13107fc15d5907810275f83b9b40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a176f0c7470bbfb1a837401cce2495d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a176f0c7470bbfb1a837401cce2495d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/af1f3f190667865df21b862ee6cc5c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/af1f3f190667865df21b862ee6cc5c73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d12ff4281823c66215ead865ca43ecb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d12ff4281823c66215ead865ca43ecb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83074c8c181ca0cb030bb012a186fa4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83074c8c181ca0cb030bb012a186fa4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1169a1c06ecfabac9d0fcaa70452e99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1169a1c06ecfabac9d0fcaa70452e99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8dd4ca5ca1422096612978759d3501f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pepesan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8dd4ca5ca1422096612978759d3501f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:14:5-28:19
+	android:label
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.plantilla.MainActivity
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/pepesan/Downloads/19GrabacionAudio/app/src/main/AndroidManifest.xml:25:27-74
